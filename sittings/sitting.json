@@ -1,1 +1,29 @@
-
+[
+  {
+    "uid": "H0US6QBPAB",
+    "settings": {
+      "ai": {
+        "showMove": true,
+        "followRules": true,
+        "lastMove": true,
+        "checkIndicator": true,
+        "sound": true,
+        "autoSave": true,
+        "pgnExport": true,
+        "time": 600,
+        "undo": 3
+      },
+      "local": {
+        "showMove": true,
+        "followRules": true,
+        "lastMove": true,
+        "checkIndicator": true,
+        "sound": true,
+        "autoSave": true,
+        "pgnExport": false,
+        "time": 600,
+        "undo": 3
+      }
+    }
+  }
+]

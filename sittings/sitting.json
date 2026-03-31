@@ -7,7 +7,7 @@
         "followRules": true,
         "lastMove": true,
         "checkIndicator": true,
-        "sound": true,
+        "sound": false,
         "autoSave": true,
         "pgnExport": true,
         "time": 600,

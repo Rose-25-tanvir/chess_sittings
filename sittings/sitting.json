@@ -4,7 +4,7 @@
     "settings": {
       "ai": {
         "showMove": true,
-        "followRules": true,
+        "followRules": false,
         "lastMove": true,
         "checkIndicator": true,
         "sound": false,

@@ -9,7 +9,7 @@
         "checkIndicator": true,
         "sound": true,
         "autoSave": true,
-        "pgnExport": true,
+        "pgnExport": false,
         "time": 600,
         "undo": 3
       },

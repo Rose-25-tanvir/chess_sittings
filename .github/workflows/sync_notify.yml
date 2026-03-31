@@ -1,0 +1,14 @@
+# .github/workflows/settings_sync.yml
+name: Grandmaster Settings Sync Notify
+
+on:
+  push:
+    paths:
+      - 'sittings/sitting.json'
+
+jobs:
+  notify_change:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Broadcast Settings Update
+        run: echo "Grandmaster Database Successfully Updated at $(date)"

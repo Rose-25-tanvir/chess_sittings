@@ -25,5 +25,34 @@
         "undo": 3
       }
     }
+  },
+  {
+    "uid": "IAADAB5JI4",
+    "settings": {
+      "ai": {
+        "showMove": true,
+        "followRules": false,
+        "lastMove": true,
+        "checkIndicator": true,
+        "sound": true,
+        "autoSave": true,
+        "pgnExport": false,
+        "theme": "original",
+        "time": 600,
+        "undo": 3
+      },
+      "local": {
+        "showMove": true,
+        "followRules": true,
+        "lastMove": true,
+        "checkIndicator": true,
+        "sound": true,
+        "autoSave": true,
+        "pgnExport": false,
+        "theme": "original",
+        "time": 600,
+        "undo": 3
+      }
+    }
   }
 ]

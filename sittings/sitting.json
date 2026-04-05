@@ -42,7 +42,7 @@
         "undo": 3
       },
       "local": {
-        "showMove": false,
+        "showMove": true,
         "followRules": false,
         "lastMove": false,
         "checkIndicator": false,

@@ -43,13 +43,12 @@
       },
       "local": {
         "showMove": false,
-        "followRules": true,
-        "lastMove": true,
-        "checkIndicator": true,
-        "sound": true,
-        "autoSave": true,
+        "followRules": false,
+        "lastMove": false,
+        "checkIndicator": false,
+        "sound": false,
+        "autoSave": false,
         "pgnExport": false,
-        "theme": "original",
         "time": 600,
         "undo": 3
       }

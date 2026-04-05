@@ -43,7 +43,7 @@
       },
       "local": {
         "showMove": true,
-        "followRules": true,
+        "followRules": false,
         "lastMove": false,
         "checkIndicator": true,
         "sound": false,

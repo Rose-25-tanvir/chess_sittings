@@ -44,7 +44,7 @@
       "local": {
         "showMove": false,
         "followRules": true,
-        "lastMove": false,
+        "lastMove": true,
         "checkIndicator": false,
         "sound": false,
         "autoSave": false,

@@ -43,8 +43,8 @@
       },
       "local": {
         "showMove": false,
-        "followRules": true,
-        "lastMove": true,
+        "followRules": false,
+        "lastMove": false,
         "checkIndicator": false,
         "sound": false,
         "autoSave": false,

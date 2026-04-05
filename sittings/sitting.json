@@ -45,7 +45,7 @@
         "showMove": true,
         "followRules": true,
         "lastMove": false,
-        "checkIndicator": false,
+        "checkIndicator": true,
         "sound": false,
         "autoSave": false,
         "pgnExport": false,

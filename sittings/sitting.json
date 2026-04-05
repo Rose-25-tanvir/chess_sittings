@@ -53,5 +53,22 @@
         "undo": 3
       }
     }
+  },
+  {
+    "uid": "115823721633336099590",
+    "settings": {
+      "ai": {},
+      "local": {
+        "showMove": true,
+        "followRules": false,
+        "lastMove": false,
+        "checkIndicator": false,
+        "sound": false,
+        "autoSave": false,
+        "pgnExport": false,
+        "time": 600,
+        "undo": 3
+      }
+    }
   }
 ]
